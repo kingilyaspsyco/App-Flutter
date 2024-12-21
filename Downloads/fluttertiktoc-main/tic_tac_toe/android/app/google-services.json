@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "827167699809",
+    "project_id": "tic-tac-toe-b3365",
+    "storage_bucket": "tic-tac-toe-b3365.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827167699809:android:7360bc9e7f3e8e9fc2cb20",
+        "android_client_info": {
+          "package_name": "com.example.tic_tac_to"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827167699809-262e9kuldf84rgtjd9dd7fi9vfcgu0ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuLtkVH17VE2qxYTZlZ1F1poISnM30AHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827167699809-262e9kuldf84rgtjd9dd7fi9vfcgu0ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827167699809:android:8d625935d0cb528cc2cb20",
+        "android_client_info": {
+          "package_name": "com.example.tic_tac_toe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827167699809-262e9kuldf84rgtjd9dd7fi9vfcgu0ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuLtkVH17VE2qxYTZlZ1F1poISnM30AHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827167699809-262e9kuldf84rgtjd9dd7fi9vfcgu0ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
